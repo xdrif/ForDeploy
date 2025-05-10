@@ -33,9 +33,6 @@ A collection of Python utilities for random data generation, email handling, and
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-
-[MIT License](LICENSE) — Feel free to use and modify.
 
 ---
 
